@@ -1,0 +1,375 @@
+body{
+    background-color:#ffffff;
+    margin: 0;
+    padding: 0;
+}
+.herotext img{
+    width: 100px;
+    height: 100px;
+    padding-top: 320px;
+    padding-left: 20px;
+}
+nav{
+    background-color: #C0030A;
+    list-style: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    }
+    .logo svg{
+        height: 50px;
+        margin: 10px;
+      
+    }
+    .links {
+        padding: 10px;
+    }
+
+    .links ol{
+       
+        display: flex;
+    }
+    .links ol a {
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: 100;
+        font-size: 20px;
+    }
+    .links ol a li{
+        margin-right: 40px;
+        list-style: none;
+        color: #ffff;
+        text-decoration: solid;
+        display: flex;
+
+    }
+
+
+.classicd{
+
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    justify-content: center;
+}
+
+.jack{
+
+    width: 40%;
+    margin-right: 30px;
+}
+
+.incredd{
+    width: 40%;
+    margin-right: 30px;
+
+}
+
+
+
+.jackee img{
+    width: 293px;
+    height: 293px;
+    border-radius:  10px 10px 10px 10px;
+    border-style: none; 
+}
+
+    button{
+        margin: 20px;
+        padding:10px;
+    }
+    .login{
+        background-color: rgb(255, 255, 255);
+        border-radius: 15px;
+        border: none;
+        padding: 10px;
+        color: #C0030A;
+        cursor: pointer;
+        width: 80px;
+    }
+
+    .signup{
+        background-color: rgba(255, 255, 255, 0);
+        border-radius: 15px;
+        border-color: #ffff;
+        border-width: 1.5px;
+        padding: 10px;
+        border-style: solid;
+        color: #ffffff;
+        cursor: pointer;
+        width: 80px;
+    }
+    .jose{
+            text-align: center;
+            padding-top: 0;
+    }
+    .jose img {
+        width: 100%;
+        height:50%;
+      }
+      .popo{
+        background: url(https://www.thestatesman.com/wp-content/uploads/2022/04/Untitled-design-6.png);
+        background-size:cover;
+        width: 100%;
+        height: 700px;
+        margin: 0;
+        flex-shrink: 0;
+        background-repeat: no-repeat;
+        padding-top: 20px; 
+    }
+     .roro{
+        text-align: center;
+        padding-top: 100px;
+    }
+    .first{
+        padding-left: 20px;
+        color: rgb(247, 238, 238);
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: thin;
+        font-size: 40px;
+        position: static;
+    }
+    .old{
+        text-align: center;
+        color: #ffffff;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        line-height: 20px;
+        font-size: 200px;
+padding: 0px;
+}
+.jackson{
+    width: 296px;
+height: 349px;
+flex-shrink: 0;
+border-radius: 10px 0px 0px 10px;
+}
+
+.classic{
+    display: flex;
+    padding-left: 20px;
+padding-right: 20px;
+}
+
+
+.incred{
+    padding-left: 10px;
+    width: 293px;
+    height: 293px;
+    flex-shrink: 0;
+    border-radius: 0px 10px 10px 0px;
+opacity: 0.7;
+background: #ffffff;
+}
+.ohh{
+    display: flex;
+    justify-content: space-between;
+}
+.ehh{
+    padding-left: 10px;  
+}
+.more{
+    padding-right: 10px;
+}
+.found{
+    display: flex;
+    justify-content: space-between; 
+}
+.second{
+    background: #ffffff;
+padding-top: 20px;
+}
+.worship{
+background-color: #D9D9D9;
+padding-top: 30px;
+}
+
+
+.note{
+    color: #1b0303;
+    font-family: Futura XBlk BT;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    text-align: left;
+  top: 50%;
+  left: 50%;transform: translate(-50%, -50%);
+}
+    
+    .bruno{
+        align-items: center;
+        position: relative;
+        padding-top: 20px;
+        padding-left: 8%;
+    
+      }
+      
+      .joo a {
+        position: absolute;
+        bottom: 50px;
+        right: 1025px;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-family: Futura XBlk BT;
+        font-size: larger;
+        text-decoration: none;
+    text-align: center;
+      }
+.glory{
+display: flex;
+margin: 15px;
+justify-content: center;
+}
+.joo{
+    background-image: url(bruno.png);
+height: 350px;
+width: 350px;
+    color: #FFF;
+    background-repeat: no-repeat;
+    
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
+.brunotext{
+    font-family: Futura XBlk BT;
+    font-size: larger;
+    text-decoration: none;
+text-align: center;
+padding-top: 230px;
+
+}
+a{
+text-decoration: none;
+}
+.second{
+    background: #ffffff;
+    padding-top: 20px; 
+}  
+.worshipeed{
+    background-color: #D9D9D9;
+    padding-top: 20px;
+
+    }
+
+.joli{
+    color: rgb(247, 238, 238);  
+    padding-bottom: 100px; 
+}
+
+
+.poli{
+    color: rgb(247, 238, 238);  
+
+}
+.lol{
+  display: flex;  
+  justify-content: space-between;
+  padding-bottom: 40px;
+
+}
+.cuba{
+    padding-left: 20px;
+}
+.cubad{
+    padding-left: 20px;
+}
+.manuchim{
+    display: flex;
+    padding-right: 30px;
+}
+  .incread{
+    padding-left: 55px;
+    width: 225px;
+    height: 225px;
+    flex-shrink: 0;
+    border-radius: 0px 10px 10px 0px;
+opacity: 0.7;
+background: #ffffff; 
+  } 
+   .tiger{
+width: 100%;
+
+   }
+  
+    footer{ 
+        margin-top: 10px;
+        background-color: #C0030A;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+    }
+   .footerbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    }
+    .itemb{
+        
+        color: #FFF;
+    
+    }
+
+    .itemb ol li {
+        list-style: none;
+            }
+
+            .itemc ol li {
+                list-style: none;
+                   text-align: left; }
+                   .itemc ol {
+                    
+                       padding: 0; }
+                       .itemb ol {
+                    
+                        padding: 0; }
+    .itema{
+        margin: 20px;
+        color: #FFF;
+        text-align: left;
+        align-items: left;
+    }
+    .itema img{
+        height: 150px;
+        margin: 10px;
+    }
+    .itemc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight:100;
+        font-size: 15px;
+        margin: 20px;
+       color: #FFF ;
+        text-align: left;
+        align-items: left;
+    }
+.itemd{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight:100;
+        font-size: 15px;
+margin-right:20px;
+    color: #FFF;
+}
+.itemb{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:100;
+    font-size: 15px;
+    margin: 30px;
+}
+.itemc{
+
+    margin: 30px;
+}
+.copyright{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight:100;
+        font-size: 15px;
+       
+       padding-bottom: 10px;
+        color: #FFF;
+}
